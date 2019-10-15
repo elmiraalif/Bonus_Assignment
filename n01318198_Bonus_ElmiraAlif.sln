@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "n01318198_Bonus_ElmiraAlif", "n01318198_Bonus_ElmiraAlif\n01318198_Bonus_ElmiraAlif.csproj", "{048E1308-55F0-414B-96E9-779D08919705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{048E1308-55F0-414B-96E9-779D08919705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048E1308-55F0-414B-96E9-779D08919705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048E1308-55F0-414B-96E9-779D08919705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048E1308-55F0-414B-96E9-779D08919705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC4A767-B555-477B-9812-938F96EE85D8}
+	EndGlobalSection
+EndGlobal
